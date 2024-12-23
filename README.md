@@ -76,7 +76,7 @@ Follow these steps to set up and run the Krushak AI project locally:
    Clone the Git repository to your local system:
 
    ```bash
-   git clone https://github.com/Lava-Kumar-PL/krushak
+   git clone https://github.com/astronova001/Krushak-Agri-Chat-Bot.git
    ```
 
 2. **Create and Activate a Virtual Environment**
@@ -149,8 +149,8 @@ After starting the server, you’ll land on the home page. This page introduces 
 - **Crop Info**: Get detailed information about vegetables by name.
 
 ## Results
-  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/krushak%20.gif" width="550" /> 
+  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/krushak%20.mp4" width="550" /> 
   
-  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/chat.png" width="400" />  
-     
-  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/gov1.png" width="400" />  <img src="https://github.com/Lava-Kumar-PL/krushak/blob/main/result/gov2.png" width="400" /> !
+  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/chat.png" width="400" />  
+  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov1.png" width="400" />  
+  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> !
