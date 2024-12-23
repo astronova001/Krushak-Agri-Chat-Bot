@@ -153,4 +153,4 @@ After starting the server, you’ll land on the home page. This page introduces 
   
   <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/chat.png" width="400" />  
   <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov1.png" width="400" />  
-  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> !
+  <img src="https://github.com/astronova001/Krushak-Agri-Chat-Bot/blob/main/Results/gov2.png" width="400" /> 
